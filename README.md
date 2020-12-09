@@ -18,6 +18,4 @@ These are my kotlin 101 projects.😜
 
 # project_three / Görsel Ekleme ve Yatayda Yeni görünüm Elde Etme
 
-1-Her görsel ikili gruplar halindeactivity_main.xml de kod olarak linear layout'a eklemesi yapıldı. Her görsele kendisi içerisinde 10dp margine verildi.
-2-Yatayda da görünüm elde emek için AndroidManifest.xml dosyasında screenOriantation olarak sensor ayarı verildi.
-3-Create Landscape Variation ile oluşturulan land/activity_main.xml dosyasında yatayda YENİ bir görünüm elde edildi.
+1-Her görsel ikili gruplar halindeactivity_main.xml de kod olarak linear layout'a eklemesi yapıldı. Her görsele kendisi içerisinde 10dp margine verildi. Yatayda da görünüm elde emek için AndroidManifest.xml dosyasında screenOriantation olarak sensor ayarı verildi. Create Landscape Variation ile oluşturulan land/activity_main.xml dosyasında yatayda YENİ bir görünüm elde edildi.

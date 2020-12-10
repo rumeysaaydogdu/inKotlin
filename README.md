@@ -18,8 +18,12 @@ These are my kotlin 101 projects.😜
 
 # project_three / Görsel Ekleme ve Yatayda Yeni görünüm Elde Etme
 
-1-Her görsel ikili gruplar halindeactivity_main.xml de kod olarak linear layout'a eklemesi yapıldı. Her görsele kendisi içerisinde 10dp margine verildi. Yatayda da görünüm elde emek için AndroidManifest.xml dosyasında screenOriantation olarak sensor ayarı verildi. Create Landscape Variation ile oluşturulan land/activity_main.xml dosyasında yatayda YENİ bir görünüm elde edildi.
+Her görsel ikili gruplar halindeactivity_main.xml de kod olarak linear layout'a eklemesi yapıldı. Her görsele kendisi içerisinde 10dp margine verildi. Yatayda da görünüm elde emek için AndroidManifest.xml dosyasında screenOriantation olarak sensor ayarı verildi. Create Landscape Variation ile oluşturulan land/activity_main.xml dosyasında yatayda YENİ bir görünüm elde edildi.
 
 ![oneP](https://user-images.githubusercontent.com/71151015/101690839-e9ef5a80-3a7e-11eb-8a52-4f5b24ca67a7.PNG)
 ![twoP](https://user-images.githubusercontent.com/71151015/101690862-efe53b80-3a7e-11eb-919d-d921f9303283.PNG)
 ![threeP](https://user-images.githubusercontent.com/71151015/101690871-f2e02c00-3a7e-11eb-9844-1a92042374ae.PNG)
+
+# project_four / The Office
+
+Veri hazırlama, recycler sırası, recycler adapter, viewholder, aktiviteler arası geçiş, singleton uygulamaları yapıldı.

@@ -27,3 +27,9 @@ Her görsel ikili gruplar halindeactivity_main.xml de kod olarak linear layout'a
 # project_four / The Office
 
 Veri hazırlama, recycler sırası, recycler adapter, viewholder, aktiviteler arası geçiş, singleton uygulamaları yapıldı.
+
+![one](https://user-images.githubusercontent.com/71151015/101839546-a0247400-3b53-11eb-8e84-803da52fc23b.PNG)
+![two](https://user-images.githubusercontent.com/71151015/101839555-a3b7fb00-3b53-11eb-8065-60861484f4ba.PNG)
+![three](https://user-images.githubusercontent.com/71151015/101839561-a6b2eb80-3b53-11eb-8770-331ae5291d76.PNG)
+![four](https://user-images.githubusercontent.com/71151015/101839568-a87caf00-3b53-11eb-9805-b1a6c3ddf4ad.PNG)
+![five](https://user-images.githubusercontent.com/71151015/101839574-aadf0900-3b53-11eb-89dd-7a8c9d8c1707.PNG)

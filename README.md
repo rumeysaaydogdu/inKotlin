@@ -26,7 +26,7 @@ Each visual was added to the linear layout as a code in the activity_main.xml in
 
 # project_four / The Office
 
-Data preparation, "recycler" order, "recycler adapter", "viewholder", transition between activities, "singleton" applications were made.
+Data preparation, "recycler" queue, "recycler adapter", "viewholder", transition between activities, "singleton" applications were made.
 
 ![one](https://user-images.githubusercontent.com/71151015/101839546-a0247400-3b53-11eb-8e84-803da52fc23b.PNG)
 ![two](https://user-images.githubusercontent.com/71151015/101839555-a3b7fb00-3b53-11eb-8065-60861484f4ba.PNG)

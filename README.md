@@ -9,7 +9,7 @@ These are my kotlin 101 projects.😜
 ![four](https://user-images.githubusercontent.com/71151015/101297267-334e6880-3839-11eb-9f3d-bbf733a1ccd6.PNG)
 ![five](https://user-images.githubusercontent.com/71151015/101297269-36495900-3839-11eb-9ded-f8f92b133199.PNG)
 
-# project_two / Four Operations Applications
+# project_two / Four Operations
 
 ![one](https://user-images.githubusercontent.com/71151015/101385562-02b80e80-38cd-11eb-9f77-78068fcc81ad.PNG)
 ![two](https://user-images.githubusercontent.com/71151015/101385580-08155900-38cd-11eb-8db3-065923ef1580.PNG)

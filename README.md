@@ -1,7 +1,7 @@
 # inKotlin
 These are my kotlin 101 projects.😜
 
-# project_one / Kullanıcı Bilgi Ekranı
+# project_one / User Information Screen
 
 ![one](https://user-images.githubusercontent.com/71151015/101297241-16b23080-3839-11eb-9e67-c4e203bd3bfd.PNG)
 ![two](https://user-images.githubusercontent.com/71151015/101297254-26ca1000-3839-11eb-9ac7-abfdeaa7fd7a.PNG)
@@ -9,14 +9,14 @@ These are my kotlin 101 projects.😜
 ![four](https://user-images.githubusercontent.com/71151015/101297267-334e6880-3839-11eb-9f3d-bbf733a1ccd6.PNG)
 ![five](https://user-images.githubusercontent.com/71151015/101297269-36495900-3839-11eb-9ded-f8f92b133199.PNG)
 
-# project_two / Dört İşlem Uygulaması
+# project_two / Four Operations Applications
 
 ![one](https://user-images.githubusercontent.com/71151015/101385562-02b80e80-38cd-11eb-9f77-78068fcc81ad.PNG)
 ![two](https://user-images.githubusercontent.com/71151015/101385580-08155900-38cd-11eb-8db3-065923ef1580.PNG)
 ![three](https://user-images.githubusercontent.com/71151015/101385583-0a77b300-38cd-11eb-93bf-90e5a64769f5.PNG)
 ![four](https://user-images.githubusercontent.com/71151015/101385590-0ba8e000-38cd-11eb-86dc-13bd74cd3f2d.PNG)
 
-# project_three / Görsel Ekleme ve Yatayda Yeni görünüm Elde Etme
+# project_three /  Adding Image and Obtaining New Horizontal View
 
 Each visual was added to the linear layout as a code in the activity_main.xml in binary groups. Each image was given a 10dp margin within itself. To get a horizontal view, the sensor setting was given as screenOriantation in the AndroidManifest.xml file. A NEW horizontal view has been obtained in the land / activity_main.xml file created with Create Landscape Variation.
 
